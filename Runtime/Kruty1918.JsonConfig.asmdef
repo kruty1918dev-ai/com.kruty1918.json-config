@@ -1,0 +1,16 @@
+{
+  "name": "Kruty1918.JsonConfig",
+  "rootNamespace": "Kruty1918.JsonConfig",
+  "references": [
+    "Unity.Newtonsoft.Json"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
